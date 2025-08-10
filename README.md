@@ -21,7 +21,8 @@ Personalized Messages: Motivational messages based on your age group.
 Beautiful UI: Custom CSS for a fun birthday-themed look with balloons and confetti animations.
 
 **Demo**
-You can run this app locally using Streamlit or deploy it on platforms like Streamlit
+You can run this app locally using Streamlit or deploy it on platforms like Streamlit:https://age-calculator01.streamlit.app/
+
 You can run this app on hugging face :https://huggingface.co/spaces/Raanakhalil/Age-calculator
 
 **Works**
