@@ -1,7 +1,7 @@
-🎂 Exact Age Calculator
+**🎂 Exact Age Calculator**
 A beautiful, interactive web app built with Streamlit that calculates your exact age based on your birthdate, along with fun facts, zodiac signs, historical events, and famous birthdays. Celebrate your milestones with balloons and confetti animations!
 
-Features
+**Features**
 Exact Age Calculation: Displays years, months, and days since your birth.
 
 Additional Stats: Shows total days, weeks, seconds lived, estimated heartbeats, and breaths.
@@ -20,11 +20,11 @@ Personalized Messages: Motivational messages based on your age group.
 
 Beautiful UI: Custom CSS for a fun birthday-themed look with balloons and confetti animations.
 
-Demo
+**Demo**
 You can run this app locally using Streamlit or deploy it on platforms like Streamlit
 You can run this app on hugging face :https://huggingface.co/spaces/Raanakhalil/Age-calculator
 
-How It Works
+**Works**
 Uses Python's datetime to calculate exact age and milestones.
 
 Fetches historical events and famous birthdays from the Byabbe "On This Day" API.
